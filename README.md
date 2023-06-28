@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+I'm Keisuke, a Japanese software developer and scrum master.
+- 🌱 I’m currently learning System architecture, Secure coding and organizational theory.  
+- ⚡ Fun fact: Open Source Software, Digital Fabrication, and play music.
+
+### GitHub status and activity.
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KeisukeNAITO&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeisukeNAITO&layout=compact&show_icons=true&theme=onedark" />
+</p>
 
 <!--
 **KeisukeNAITO/KeisukeNAITO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
