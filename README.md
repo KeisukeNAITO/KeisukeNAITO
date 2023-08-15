@@ -2,6 +2,7 @@
 I'm Keisuke, a Japanese software developer and scrum master.
 - 🌱 I’m currently learning System architecture, Secure coding and Organizational theory.  
 - ⚡ Fun fact: Open Source Software, Digital Fabrication, and play music.
+- 🤔 I’m looking for help: Let me know if you find me using the wrong English or if you have a better idea!
 
 ### GitHub status and activity.
 <p align="left"> 
